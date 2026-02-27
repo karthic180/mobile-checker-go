@@ -106,8 +106,6 @@ mobile-checker-go/
 ## Related Projects
 
 - [broadband-checker-go](https://github.com/yourusername/broadband-checker-go) — Fixed broadband availability checker
-- [postcode-distance-go](https://github.com/yourusername/postcode-distance-go) — Postcode distance calculator
-
 ---
 
 ## Licence
