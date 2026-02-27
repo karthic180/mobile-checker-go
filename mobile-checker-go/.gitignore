@@ -1,0 +1,11 @@
+mobile-checker
+mobile-server
+*.exe
+data/*.csv
+data/*.zip
+data/*.db
+~/.mobile-checker/
+vendor/
+.vscode/
+.idea/
+.DS_Store
