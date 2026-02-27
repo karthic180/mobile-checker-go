@@ -103,11 +103,6 @@ mobile-checker-go/
 
 ---
 
-## Related Projects
-
-- [broadband-checker-go](https://github.com/yourusername/broadband-checker-go) — Fixed broadband availability checker
----
-
 ## Licence
 
 MIT. Data: Open Government Licence v3.0 (Ofcom + postcodes.io)
