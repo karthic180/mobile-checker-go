@@ -1,4 +1,4 @@
-# 🇬🇧 UK Mobile Coverage Checker (Go)
+#Mobile Coverage Checker (Go)
 
 Check UK mobile coverage for all four operators (EE, O2, Three, Vodafone) by postcode — voice, 4G, and 5G — using free Ofcom open data.
 
